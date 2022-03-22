@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter (because my dad wants an app 😂) and Go (no reason, just playing)**
 
-- 💬 Ask me what you want about **nothing for now, I will enable it in the future 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
