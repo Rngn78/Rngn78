@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raul <img src="https://media.giphy.com/media/TeBpzQZRaBIC4/giphy.gif" width="50"> </h1>
 <h3 align="center">I do Devops, SRE and Sysadmin stuff <img src="https://media.giphy.com/media/NEcNXet6LC1wohFMi7/giphy.gif" width="50"> </h3>
 
+<img align='right' src="https://media.giphy.com/media/ZdO1mXD9kgpCslD5ka/giphy.gif" width="230">
+
 - 👨🏻‍💻 I’m currently working on [Kualo](https://www.kualo.com/)
 
 - 📫 How to reach me --> **raul@rngn.dev**
