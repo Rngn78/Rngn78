@@ -3,11 +3,11 @@
 
 <img align='right' src="https://media.giphy.com/media/ZdO1mXD9kgpCslD5ka/giphy.gif" width="230">
 
-- 👨🏻‍💻 I’m currently working on [Kualo](https://www.kualo.com/)
+- 👨🏻‍💻 I’m currently working on [Bunny](https://www.bunny.net)
 
 - 📫 How to reach me --> **raul@rngn.dev**
 
-- 🌱 I’m currently learning **Flutter (because my dad wants an app 😂) and Go (no reason, just playing)**
+- 🌱 I’m currently learning **Flutter and Go**
 
 
 <h3 align="left">Connect with me:</h3>
